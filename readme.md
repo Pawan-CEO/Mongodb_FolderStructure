@@ -17,14 +17,18 @@ myenv\Scripts\activate
 
 # Activate the virtual environment (macOS/Linux)
 source myenv/bin/activate
-2. Requirements
+
+
+### 2. Requirements
+
 Install the required Python packages using pip:
 
-Bash
+```bash
 
 pip install -r requirements.txt
 
-3. MongoDB Setup
+
+### 3. MongoDB Setup
 Starting MongoDB Locally
 Ensure you have MongoDB installed. If not, download and install it from the official MongoDB website: https://www.mongodb.com/try/download/community
 
